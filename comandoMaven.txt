@@ -1,0 +1,2 @@
+mvn archetype:generate -DgroupId=mx.hashCode.test -DartifactId=MavenCommand -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
